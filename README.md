@@ -4,6 +4,7 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kira</a></b>
+    Python <b><a rel="nofollow noopener noreferrer" target="_blank">Dev</a></b
 
 </samp>
 
