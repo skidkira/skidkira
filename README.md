@@ -4,11 +4,9 @@
   <br>
   <samp>
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Kira</a></b>
-    Python <b><a rel="nofollow noopener noreferrer" target="_blank">Dev</a></b
+    <br>Python Dev<br>
 
 </samp>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 </p>
 
