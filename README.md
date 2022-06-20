@@ -12,7 +12,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/788086046813323324.png">
+  <img src="https://discord.c99.nl/widget/theme-1/788086046813323324.png">
   <br><br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w6t&layout=compact&theme=dark"<p align="center">
