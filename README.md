@@ -19,8 +19,8 @@
 </p>
 
 <a href="https://github.com/CamXD">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skidkira&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=skidkira&theme=dark">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=skidkira&theme=dark&show_icons=true)">
+  <img align="top" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=skidkira&theme=dark">
 </a>
 
 <!--<a href="link" style="text-align: center">
