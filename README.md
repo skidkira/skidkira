@@ -18,9 +18,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skidkira&layout=compact&theme=dark"<p align="center">
 </p>
 
-<a href="https://github.com/skidkira">
-  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=skidkira&theme=dark&show_icons=true)">
-</a>
-
 <!--<a href="link" style="text-align: center">
 <!--<img src="https://discord.c99.nl/widget/theme-1/788086046813323324.png" align="center"></a> -->
