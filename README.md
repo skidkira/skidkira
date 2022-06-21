@@ -19,7 +19,7 @@
 </p>
 
 <a href="https://github.com/skidkira">
-  <img align="left" wtopsrc="https://github-readme-stats.vercel.app/api?username=skidkira&theme=dark&show_icons=true)">
+  <img align="top" width="25%" src="https://github-readme-stats.vercel.app/api?username=skidkira&theme=dark&show_icons=true)">
   <img align="top" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=skidkira&theme=dark">
 </a>
 
